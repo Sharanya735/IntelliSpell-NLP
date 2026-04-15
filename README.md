@@ -2,8 +2,6 @@
 
 IntelliSpell NLP is a premium, high-performance spell checker and auto-corrector built with Python and Streamlit. It leverages Natural Language Processing (NLP) techniques like **Levenshtein Distance** and **Word Frequency Probability** to provide accurate, real-time spelling rectifications.
 
-![Project Screenshot](https://raw.githubusercontent.com/Sharanya735/IntelliSpell-NLP/master/app_preview.png) *(Note: Add your actual screenshot here after pushing!)*
-
 ## 🚀 Features
 - **Real-time Rectification**: Instant spelling detection and correction as you type.
 - **Glassmorphism UI**: A modern, sleek interface with background blur and smooth animations.
